@@ -8,8 +8,9 @@
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- ### Spotify Playing 🎧 -->
-[<img src="https://y9susnhh-spotifyplaying-pprptlv42-y9susnhh.vercel.app/api/spotify" alt="Y9SusNHH Spotify Playing" width="350" />](https://open.spotify.com/user/31ha3eawbwqgg34j6n62jfyawxcu)
+### Spotify Playing 🎧
+<!-- [<img src="https://y9susnhh-spotifyplaying-pprptlv42-y9susnhh.vercel.app/api/spotify" alt="Y9SusNHH Spotify Playing" width="350" />](https://open.spotify.com/user/31ha3eawbwqgg34j6n62jfyawxcu) -->
+[![Spotify](https://y9susnhh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ha3eawbwqgg34j6n62jfyawxcu)
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
