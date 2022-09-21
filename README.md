@@ -27,5 +27,10 @@
 ### Databases:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" title="MySQL"/>
 
+### WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- LINKS -->
 [Facebook]: https://fb.com/Y9SusNHH/
