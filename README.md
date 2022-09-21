@@ -31,6 +31,16 @@
 ### WakaTime
 
 <!--START_SECTION:waka-->
+
+```text
+Blade Template   14 hrs 19 mins  ████████████▓░░░░░░░░░░░░   51.22 %
+PHP              13 hrs 37 mins  ████████████▒░░░░░░░░░░░░   48.70 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- LINKS -->
