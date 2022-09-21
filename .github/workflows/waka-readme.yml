@@ -10,7 +10,7 @@ jobs:
     name: Y9SuSNHH
     runs-on: ubuntu-latest
     steps:
-      - uses: Y9SuSNHH/waka-readme@main
+      - uses: Y9SuSNHH/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
