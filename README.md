@@ -33,10 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   26 hrs 5 mins   ██████████████▓░░░░░░░░░░   59.08 %
-PHP              18 hrs 2 mins   ██████████▒░░░░░░░░░░░░░░   40.87 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Blade Template   22 hrs 40 mins  ███████████████░░░░░░░░░░   59.87 %
+PHP              14 hrs 58 mins  ██████████░░░░░░░░░░░░░░░   39.55 %
+JavaScript       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
