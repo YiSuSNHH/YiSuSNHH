@@ -32,12 +32,6 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Vue.js   1 hr 45 mins    █████████████▒░░░░░░░░░░░   53.28 %
-PHP      1 hr 32 mins    ███████████▓░░░░░░░░░░░░░   46.72 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- LINKS -->
