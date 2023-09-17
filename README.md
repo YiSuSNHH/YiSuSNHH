@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP             4 hrs 9 mins    ████████████████████████▓   98.04 %
+Log             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+ActionScript    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Vue.js          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Objective-C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
