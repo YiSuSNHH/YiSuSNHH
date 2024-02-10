@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              56 mins         █████████████▓░░░░░░░░░░░   54.96 %
-Log              20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Bash             16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-.env file        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Other            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
