@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        13 hrs 20 mins  ████████▓░░░░░░░░░░░░░░░░   35.22 %
-Vue.js                     10 hrs 18 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
-JavaScript                 3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-TypeScript                 2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Blade Template             2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Vue.js           10 hrs 24 mins  ████████▒░░░░░░░░░░░░░░░░   33.03 %
+PHP              9 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.54 %
+JavaScript       3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+TypeScript       2 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+JSON             1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
