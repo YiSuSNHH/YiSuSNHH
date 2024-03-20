@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                 18 hrs 8 mins   ███████████████▒░░░░░░░░░   61.77 %
-JavaScript          2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Vue.js              1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Blade Template      1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-textmate            1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+PHP              17 hrs 38 mins  ██████████████▓░░░░░░░░░░   58.77 %
+JavaScript       2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Vue.js           2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Blade Template   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+.env file        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->
