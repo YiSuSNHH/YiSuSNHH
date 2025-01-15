@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   1 min           ████████░░░░░░░░░░░░░░░░░   31.72 %
-Other            1 min           ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-Bash             0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-PHP              0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-SSH Config       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
