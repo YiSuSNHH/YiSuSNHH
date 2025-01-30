@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       16 mins         ████████████████░░░░░░░░░   64.60 %
-PHP          7 mins          ███████░░░░░░░░░░░░░░░░░░   27.81 %
-XML          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
