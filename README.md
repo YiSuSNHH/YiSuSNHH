@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Ha Noi Open University
+
+<!--- 🌱 I’m currently learning Ha Noi Open University-->
 - 💬 Ask me about every thing
-- 😄 Pronouns: He/His | Y9SusNHH - YiSuS - Nguyễn Huy Hùng
+- 😄 Pronouns: He/His | YiSuSNHH - YiSuS - Nguyễn Huy Hùng
 - 📫 How to reach me: [Facebook]
 <!-- - ⚡ Fun fact: Frank Man -->
 <!-- - 🔭 I’m currently working on ... -->
